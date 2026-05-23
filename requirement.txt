@@ -1,0 +1,5 @@
+transformers 
+pillow 
+torch
+faiss-cpu 
+numpy

@@ -6,3 +6,7 @@ numpy
 langchain-community
 langchain
 pypdf
+pillow
+qdrant-client
+ipykernel
+langchain-qdrant

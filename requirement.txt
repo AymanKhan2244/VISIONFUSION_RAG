@@ -3,3 +3,6 @@ pillow
 torch
 faiss-cpu 
 numpy
+langchain-community
+langchain
+pypdf

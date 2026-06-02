@@ -10,3 +10,5 @@ pillow
 qdrant-client
 ipykernel
 langchain-qdrant
+sentence-transformers
+langchain-groq

@@ -12,3 +12,10 @@ ipykernel
 langchain-qdrant
 sentence-transformers
 langchain-groq
+rank-bm25
+chromadb
+fitz
+langchain-huggingface
+easyocr 
+torch 
+torchvision

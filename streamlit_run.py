@@ -175,13 +175,7 @@ if query:
                 )
             )
 
-            reranked_results = (
-                rerank_documents(
-                    query,
-                    results,
-                    top_k=5
-                )
-            )
+            reranked_results = results[:5]
 
             context = "\n\n".join(
                 [
